@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "tp-funcional:lib"
+
+    - path: "./test"
+      component: "tp-funcional:test:tp-funcional-test"
